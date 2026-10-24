@@ -51,7 +51,7 @@ Commands are proposed and validated by the application. Review any command befor
 ## 🚀 Run the backend
 
 ```bash
-git clone https://github.com/ChristopherJoshy/orito.git
+git clone https://github.com/ChristopherJoshy/Orito.git
 cd orito/backend
 npm ci
 cp .env.example .env
